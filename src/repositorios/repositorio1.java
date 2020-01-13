@@ -23,7 +23,7 @@ public class repositorio1 {
                     System.out.println("Esto es un espacio en la posicion\t"+i);
               
               }else{
-                  System.out.println("Es un caracter no regisrado en la posicion\t"+i);
+               
               
               }
               
