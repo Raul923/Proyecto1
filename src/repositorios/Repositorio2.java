@@ -1,6 +1,6 @@
 package repositorios;
 import java.util.Scanner;
-public class repositorio1 {
+public class Repositorio2 {
       public static void main(String[] args) {
           Scanner teclado = new Scanner(System.in);
           String cadena;

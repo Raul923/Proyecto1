@@ -1,6 +1,8 @@
+
 package repositorios;
+
 import java.util.Scanner;
-public class repositorio1 {
+public class Repositorio3 {
       public static void main(String[] args) {
           Scanner teclado = new Scanner(System.in);
           String cadena;
@@ -8,10 +10,7 @@ public class repositorio1 {
  
           System.out.println("Introduzca una cadena de digitos caracteres y espacios");
             cadena = teclado.nextLine();
-            
-          
-            
-                   
+    
             
            for (int i = 0; i < cadena.length(); i++) {
               if(Character.isDigit(cadena.charAt(i))){
